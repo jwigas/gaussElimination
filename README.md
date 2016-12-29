@@ -1,5 +1,5 @@
 # gaussElimination
-Python implementation in using Gauss Elimination Method solver  
+Python implementation of Gauss Elimination Method.   
 Full mathematical theory and documentation provided in  
   
 http://www.duniakomputasi.com/implementasi-metode-eliminasi-gauss/  
